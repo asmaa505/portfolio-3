@@ -192,6 +192,7 @@ main h2::before{
     padding: var(--padding);
     border-bottom: var(--my-lime) 2px solid;
     background-color: transparent;
+    color: white;
 
     width: 75%;
     margin: auto;
@@ -203,6 +204,7 @@ main h2::before{
     background-color: transparent;
     padding-left: 20px;
     padding-top: 20px;
+    color: white;
 
     width: 75%;
     margin: auto;
